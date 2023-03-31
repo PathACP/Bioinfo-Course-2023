@@ -2,7 +2,7 @@
 
 Welcome to the Bioinformatics Course 2023 - Next Generation Sequencing! 
 
-The course will focus on the bioinformatics analysis of next generation sequencing (NGS) data, with emphasis on variant analysis. 
+The course will focus on the bioinformatics analysis of next generation sequencing (NGS) data, with emphasis on variant analysis. Lecture slides and course materials will be available for download in this repository.
 
 ## Before attending the practical sessions
 
