@@ -11,3 +11,5 @@ The course will focus on the bioinformatics analysis of next generation sequenci
 2. Download and install the Integrative Genomics Viewer (https://software.broadinstitute.org/software/igv/), a high-performance tool for the visual exploration of genomic data. 
 
 3. Download "Practical Session_IGV_Course Materials.zip" (428 MB) via this link https://www.dropbox.com/s/ox8zr1epu0n96mn/Practical%20Session_IGV_Course%20Materials.zip?dl=0 .
+
+4. Participants who have opted for the Microbiology track on Day One, you may access the pre-reading materials here: https://drive.google.com/drive/folders/1eh2TVcNp3uAUMugQrKjLEpJFoXRuEeMc?usp=share_link .
